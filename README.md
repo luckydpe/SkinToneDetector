@@ -1,7 +1,7 @@
 Skin Tone Detector
 
 Anggota kelompok 1:
-- aynaya
+- Aynaya
 - Lucky
 - Tiffani
 - Raja
